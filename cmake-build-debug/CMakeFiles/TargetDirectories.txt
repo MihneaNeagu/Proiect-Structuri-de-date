@@ -1,0 +1,3 @@
+C:/PROIECTE ALGORITMI SI PROGRAMARE 1/PROIECT_SDA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/PROIECTE ALGORITMI SI PROGRAMARE 1/PROIECT_SDA/cmake-build-debug/CMakeFiles/PROIECT_SDA.dir
+C:/PROIECTE ALGORITMI SI PROGRAMARE 1/PROIECT_SDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
